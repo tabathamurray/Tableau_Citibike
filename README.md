@@ -1,5 +1,3 @@
-[link to dashboard]
-
 # Analysis of August 2018 Citi Bike Data
 
 **Overview of the analysis:** The purpose of this challenge is to show vizualizations through Tableau to determine if a similar Citi Bike program would be successful in Des Moines, Iowa.
