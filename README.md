@@ -1,4 +1,4 @@
-# Analysis of August 2018 Citi Bike Data
+# Analysis of August 2019 Citi Bike Data
 
 **Overview of the analysis:** The purpose of this challenge is to show vizualizations through Tableau to determine if a similar Citi Bike program would be successful in Des Moines, Iowa.
 
@@ -33,3 +33,7 @@ The below is a total summary of the August 2019 data. Most popular time for ride
 The top 5 start stations are also the top 5 end stations. With the duration of rides, this shows that riders stay in the same area and do not travel far.
 
 ![start_stop](https://github.com/tabathamurray/Tableau_Citibike/blob/main/Images/start_stop.PNG)
+
+**Suggestions:**
+
+With Des Moines being the end goal of another program, you cannot fully gauge your decision on New York City data. I recommend pulling demographics/census for Des Moines and compare those with the age range provided. Also, see how the genders relate to New York. 
