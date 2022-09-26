@@ -6,5 +6,7 @@ The link to the Tableau dashboard can be found [here](https://public.tableau.com
 
 **Results:** Using the visualizations you have in your Tableau Story provide a summary of each visualization underneath the image. 
 
+![tripduration](https://github.com/tabathamurray/Tableau_Citibike/blob/main/Images/tripduration.PNG)
+
 **Summary:**  Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
